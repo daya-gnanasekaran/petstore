@@ -1,6 +1,9 @@
 # petstore
 petstoreapp
 
-EntryPoint
-com.mypetstore.PetStore
+#EntryPoint
+
+java -jar Petstore.jar -file <filepath> 
+  
+Main class : com.mypetstore.PetStore
 
